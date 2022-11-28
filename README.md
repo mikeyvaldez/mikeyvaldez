@@ -20,5 +20,4 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeyvaldez&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
