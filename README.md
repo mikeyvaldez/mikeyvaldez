@@ -1,3 +1,7 @@
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;Checkout+my+Projects!+:D)](https://git.io/typing-svg)
+
+<!-- <div align='center'> -->
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
