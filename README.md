@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg" style="font-size: 500px"> <img src="https://readme-typing-svg.demolab.com/?lines=Hello! My Name Michael;Welcome to my page!" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg" style="font-size: 500px"> <h1><img src="https://readme-typing-svg.demolab.com/?lines=Hello! My Name Michael;Welcome to my page!" alt="Typing SVG"/></h1></a>
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeyvaldez&show_icons=true&theme=radical)
 
