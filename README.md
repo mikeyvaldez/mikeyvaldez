@@ -1,4 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello! My Name Michael;Welcom to my page!)](https://git.io/typing-svg)
+
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikeyvaldez&show_icons=true&theme=radical)
 
 <!-- <div align='center'> -->
