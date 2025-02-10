@@ -25,6 +25,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PGADMIN4](https://img.shields.io/badge/PgAdmin4-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e5aed42-0f8c-4ca8-825f-adede54c6ee8/deploy-status)](https://app.netlify.com/sites/michaelvaldez/deploys)
 <!-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
